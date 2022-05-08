@@ -4,6 +4,7 @@ import Navbar from './components/Navbar'
 import Create from './pages/Create'
 import BlogDetails from './pages/BlogDetails'
 import Home from './pages/Home'
+import Bnpl from './pages/Bnpl';
 import NotFound from './pages/NotFound';
 function App() {
   return (
@@ -21,6 +22,9 @@ function App() {
             </Route>
             <Route path="/blogs/:id">
               <BlogDetails />
+            </Route>
+            <Route path="/bnpls">
+             <Bnpl/>
             </Route>
             <Route path="*">
               <NotFound/>

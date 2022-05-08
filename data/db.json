@@ -27,54 +27,70 @@
   ],
   "bnpls":[
     {
+      "id":1,
       "name":"Affirm",
-      "image":"./src/images/Affirm.png",
-      "currency":"USD"
+      "currency":"USD",
+      "image":"https://www.bigpoppasmokers.com/media/wysiwyg/Affirm_Logo.jpg"
     },
     {
+      "id":2,
       "name":"Humm",
-      "image":"./src/images/Humm.png",
-      "currency":"EUR"
+      "currency":"EUR",
+      "image":"https://www.shiels.com.au/media/wysiwyg/humm-logo.png"
     },
     {
+      "id":3,
       "name":"Affirm",
-      "image":"./src/images/Affirm.png",
-      "currency":"GBP"
+      "currency":"GBP",
+      "image":"https://www.bigpoppasmokers.com/media/wysiwyg/Affirm_Logo.jpg"
+
     },
     {
+      "id":4,
       "name":"Klarna",
-      "image":"./src/images/Klarna.png",
-      "currency":"EUR"
+      "currency":"EUR",
+      "image":"https://www.electronicpaymentsinternational.com/wp-content/uploads/sites/4/2021/08/Klarna-BNPL.png"
     },
 
     {
+      "id":5,
       "name":"Affirm",
-      "image":"./src/images/Affirm.png",
-      "currency":"EUR"
+      "currency":"EUR",
+      "image":"https://www.bigpoppasmokers.com/media/wysiwyg/Affirm_Logo.jpg"
+
     },
     
    
    
   {
+    "id": 6,
     "name":"Klarna",
-    "image":"./src/images/Klarna.png",
-    "currency":"GBP"
+    "currency":"GBP",
+    "image":"https://www.electronicpaymentsinternational.com/wp-content/uploads/sites/4/2021/08/Klarna-BNPL.png"
+
   },
   {
+    "id": 7,
     "name":"Humm",
-    "image":"./src/images/Humm.png",
-    "currency":"GBP"
+    "currency":"GBP",
+    "image":"https://www.shiels.com.au/media/wysiwyg/humm-logo.png"
+
   },
   {
+    "id": 8,
     "name":"Klarna",
-    "image":"./src/images/Klarna.png",
-    "currency":"USD"
+    "currency":"USD",
+    "image":"https://www.electronicpaymentsinternational.com/wp-content/uploads/sites/4/2021/08/Klarna-BNPL.png"
+
+
   },
 
 {
+  "id": 9,
   "name":"Humm",
-  "image":"./src/images/Humm.png",
-  "currency":"USD"
+  "currency":"USD",
+  "image":"https://www.shiels.com.au/media/wysiwyg/humm-logo.png"
+
 }
   ]
 }

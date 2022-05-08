@@ -13,6 +13,11 @@ const Navbar = () => {
           backgroundColor: '#f1356d',
           borderRadius: '8px' 
         }}>New Blog</Link>
+          <Link to="/bnpls" style={{ 
+          color: 'white', 
+          backgroundColor: '#f1359d',
+          borderRadius: '8px' 
+        }}>Bnpls</Link>
       </div>
     </nav>
    );
