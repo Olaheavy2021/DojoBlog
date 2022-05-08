@@ -5,10 +5,9 @@ const BnplList = (props) => {
   bnpls.sort(
     function(a,b){
       if(a.name === b.name){
-        return a.currency > b.currency ? 1 : -1;
+        return a.currency.localeCompare(b.currency)
       }
-
-      return a.name > b.name ? 1 : -1;
+      return a.name.localeCompare(b.name)
     }
   )
 
